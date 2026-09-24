@@ -1,4 +1,3 @@
-from stage_area import processar_stage_area
 from config import input_projeto,output_projeto, rbc_data
 from charge import carregamento 
 from normalizacao import normalizacao
